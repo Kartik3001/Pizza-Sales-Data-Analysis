@@ -1,0 +1,12 @@
+
+---
+
+## ✅ .gitignore
+
+```gitignore
+*.csv
+*.xlsx
+__pycache__/
+*.pyc
+.env
+.venv
