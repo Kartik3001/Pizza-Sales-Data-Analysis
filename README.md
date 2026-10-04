@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/e04ece91-7f9e-482d-9ac3-dd8c54fcb025
+
 # 🍕 Pizza Sales Data Analysis
 
 Analyze one year of pizza sales data to extract revenue insights, peak sales periods, and customer ordering behavior using Python, SQL, and Tableau.
